@@ -1,0 +1,8 @@
+{
+    "editor.autoIndent": "none",
+    "editor.detectIndentation": false,
+    "editor.highlightActiveIndentGuide": false,
+	"editor.insertSpaces": false,
+	"editor.renderIndentGuides": false,
+	"editor.wrappingIndent": "none"
+}
